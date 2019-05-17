@@ -7,13 +7,13 @@ img {
   z-index: 11;
   cursor: pointer;
 }
-
+/*
 .wrapper {
   position: relative;
   width: 960px;
   height: 100vh;
   margin: 0 auto;
-}
+}*/
 
 #wheelbarrow, #wheelbarrow-foreground {
   margin-left: 80px;
